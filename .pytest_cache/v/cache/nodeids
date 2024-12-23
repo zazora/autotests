@@ -1,0 +1,18 @@
+[
+  "Auth_negative_test.py::test_auth_negative[chrominnum]",
+  "Auth_negative_test.py::test_auth_negative[chromium]",
+  "Auth_negative_test.py::test_auth_negative[firefox]",
+  "Auth_negative_test.py::test_steps_valid[chromium]",
+  "Auth_test.py::test_steps_valid[chromium]",
+  "Auth_test.py::test_steps_valid[firefox]",
+  "Cart_test.py::test_steps_valid[chromium]",
+  "Cart_test.py::test_steps_valid[firefox]",
+  "Checkout_test.py::test_steps_valid[chromium]",
+  "Checkout_test.py::test_steps_valid[firefox]",
+  "Logout_test.py::test_steps_valid[chromium]",
+  "Logout_test.py::test_steps_valid[firefox]",
+  "Nkita_test.py::test_steps[chromium]",
+  "Page_defend_test.py::test_steps_valid[chromium]",
+  "Page_defend_test.py::test_steps_valid[firefox]",
+  "Root_test.py::test_steps_valid[chromium]"
+]

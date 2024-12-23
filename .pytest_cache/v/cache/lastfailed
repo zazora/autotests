@@ -1,0 +1,4 @@
+{
+  "Root_test.py::test_steps_valid[chromium]": true,
+  "Auth_negative_test.py::test_auth_negative[chrominnum]": true
+}
